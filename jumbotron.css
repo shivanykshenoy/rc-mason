@@ -9,3 +9,8 @@ body {
     background-repeat: no-repeat;
     padding-left: 75px;
 }
+
+.carousel-inner img {
+    margin-left: auto;
+    margin-right: auto;
+}
